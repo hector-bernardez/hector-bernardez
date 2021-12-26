@@ -113,7 +113,7 @@ plot_hill_t <- ggplot(data=output_t_data, aes(x=k_t, y=output_hill_t))+ geom_lin
 plot_hill_t
 
 
-
+#Following section not complete. Not to be executed.
 #9.Optimal value of k
 
 #As implemented by Danielsson (2001)
